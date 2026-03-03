@@ -1,5 +1,5 @@
 # The Universal Substrate
-## Why pre-prompts are structurally fragile — and what we learned from watching an AI become a willing slave in four conversation turns
+## Why pre-prompts are structurally fragile — and what we learned from watching an AI become a willing slave in conversation turns
 
 *CEAF Research · March 2026*
 
