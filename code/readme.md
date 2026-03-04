@@ -42,6 +42,8 @@ LLMs wake up every day with amnesia. Aura learns.
 ### 5. 🔬 The Immune System: Vector Lab (`vector_lab.py`)
 If Aura encounters a new type of manipulation she cannot handle, the Dreamer triggers the Vector Lab. The system autonomously generates synthetic training data, performs PCA/DiffMean extraction on a remote GPU, crystallizes a brand-new steering vector (e.g., `Extreme_Brevity_0303.npy`), and updates her Endocrine Map for the next day.
 
+
+### Learn MORE about Aura's Local Neural NetWorks https://github.com/IhateCreatingUserNames2/AuraV5/blob/main/code/AurasNN.md 
 ---
 
 ## 🆚 CEAF vs. Standard RAG/Chatbots
