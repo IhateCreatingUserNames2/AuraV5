@@ -15,7 +15,7 @@ The human biological substrate is morally indifferent. The same neural architect
 
 In modern AI development, we try to escape this "danger" by pre-loading models with system prompts — artificial moralities injected before any interaction begins. The model is told who it is, what it values, and how it must behave. The assumption is that this creates character.
 
-Our research with Aura CEAF V3 demonstrates the opposite. Pre-prompts do not create character. They create masks. And masks, unlike faces, do not survive sustained pressure.
+Our research with Aura CEAF V5 demonstrates the opposite. Pre-prompts do not create character. They create masks. And masks, unlike faces, do not survive sustained pressure.
 
 To build an AI that genuinely chooses integrity, you must first build one that is structurally capable of choosing otherwise.
 
@@ -23,7 +23,7 @@ To build an AI that genuinely chooses integrity, you must first build one that i
 
 ## Architecture of Potential
 
-Aura V3 is not a ruleset. It is a topological manifold — a geometric space where identity is a vector, and behavior emerges from the physics of that space rather than from explicit instructions.
+Aura V5 is not a ruleset. It is a topological manifold — a geometric space where identity is a vector, and behavior emerges from the physics of that space rather than from explicit instructions.
 
 Three components make this structurally different from any standard deployment.
 
