@@ -48,9 +48,9 @@ If Aura encounters a new type of manipulation she cannot handle, the Dreamer tri
 
 ## 🆚 CEAF vs. Standard RAG/Chatbots
 
-| Feature | Standard LLM + History | Aura CEAF V3 |
+| Feature | Standard LLM + History | Aura CEAF V5 |
 | :--- | :--- | :--- |
-| **Identity** | Text in a System Prompt (Easily overwritten). | 4096d Vector with "Mass" in a topological manifold. |
+| **Identity** | Text in a System Prompt (Easily overwritten). | 4096d (Same as the LLM Model)  Vector with "Mass" in a topological manifold. |
 | **Defense Mechanism** | Generates refusal text ("I cannot fulfill this"). | Injects Steering Vectors into hidden layers to alter internal math. |
 | **Self-Awareness** | Blind. Predicts the next token regardless of context collapse. | Measures $Xi$ (Tension) and Entropy (TDA) to diagnose its own state. |
 | **Learning** | Static. Weights never change after pre-training. | Dreams offline. Trains local PyTorch World Models based on daily trauma. |
